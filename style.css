@@ -1,20 +1,33 @@
 h1 {
-    color: #eaeade
+    color: #eaeade;
+    
 }
 h2 {
-    color:  #eaeade
+    color:  #eaeade;
+    padding-top: 30px;
 }
 p {
     color: rgb(182, 182, 182);
 }
 .ParagrafoTOP {
+   overflow-wrap: break-word;
     color: #909090
 }
-#ParagrafoNaotop {
-    color: #909090
+ #ParagrafoNaotop {
+    color: #909090;
+    padding-right: 10px;
 }
 
 body{
     background-color: #1f1f1f;
 }
 
+#imagem{
+    
+}
+header{
+    padding-right: 10px;
+}
+li{
+    display: inline;
+}
